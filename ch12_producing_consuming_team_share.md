@@ -1,4 +1,4 @@
-# Kafka 12장 (Producing and Consuming 이후) 팀 공유용 단일 문서
+# Kafka 12장 (Producing and Consuming 이후) 
 
 ## 0) 세션 진행 방식
 - 이 문서는 책의 순서대로 진행한다.
